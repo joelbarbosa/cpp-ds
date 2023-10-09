@@ -1,0 +1,1 @@
+clang++ -std=c++20 -o ./buid/<filename> ./src/<filename>.cpp
